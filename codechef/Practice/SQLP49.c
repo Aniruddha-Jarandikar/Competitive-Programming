@@ -3,6 +3,6 @@
 // Language: Select count(*) from Given_table;
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLPRAC05/problems/SQLP49
-// Solved on: 2026-09-03T13:04:57.713Z
+// Solved on: 2026-09-03T13:06:58.905Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
