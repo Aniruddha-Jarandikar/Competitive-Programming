@@ -11,7 +11,7 @@
 └──────────┴──────────┴──────────┴────────┴────────────┴───────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP05
-// Solved on: 2026-09-03T13:00:40.066Z
+// Solved on: 2026-09-03T13:00:45.065Z
 
 SELECT 
     m.match_id, 
