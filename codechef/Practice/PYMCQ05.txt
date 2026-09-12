@@ -1,0 +1,8 @@
+// Problem: PYMCQ05
+// Platform: codechef
+// Language: print(int('3.14'))
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/python-interview-questions/PYPREP02/problems/PYMCQ05
+// Solved on: 2026-09-12T14:20:15.865Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
