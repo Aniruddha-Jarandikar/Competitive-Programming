@@ -1,0 +1,8 @@
+// Problem: PYMCQ06
+// Platform: codechef
+// Language: print('2' + '2')
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/python-interview-questions/PYPREP02/problems/PYMCQ06
+// Solved on: 2026-09-12T14:20:35.065Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
