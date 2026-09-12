@@ -1,0 +1,8 @@
+// Problem: PYMCQ10
+// Platform: codechef
+// Language: print(5 // 2)
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/python-interview-questions/PYPREP02/problems/PYMCQ10
+// Solved on: 2026-09-12T14:26:01.465Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
